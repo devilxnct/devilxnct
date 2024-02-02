@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @devilxnct
+- 👋 Hi, I’m Niraj chand
 - 👀 I’m interested in ...anime
 - 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ...project
